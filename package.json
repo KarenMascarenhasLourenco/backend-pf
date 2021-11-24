@@ -1,33 +1,23 @@
 {
-  "name": "mod03-projeto-final-backend",
+  "name": "backend-pf",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rafael4141/mod03-Projeto-Final-BackEnd.git"
+    "url": "git+https://github.com/KarenMascarenhasLourenco/backend-pf.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rafael4141/mod03-Projeto-Final-BackEnd/issues"
+    "url": "https://github.com/KarenMascarenhasLourenco/backend-pf/issues"
   },
-  "homepage": "https://github.com/rafael4141/mod03-Projeto-Final-BackEnd#readme",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^10.0.0",
-    "express": "^4.17.1",
-    "express-cli": "0.0.1",
-    "express-session": "^1.17.2",
-    "mongoose": "^6.0.12"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.15"
-  }
+  "homepage": "https://github.com/KarenMascarenhasLourenco/backend-pf#readme"
 }
